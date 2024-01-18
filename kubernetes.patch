@@ -148,7 +148,7 @@ new file mode 100644
 +    spec:
 +      containers:
 +        - name: spring
-+          image: nivitzhaky/backend:001
++          image: ybesig/backend:001
 +          ports:
 +            - containerPort: 8080
 +              name: http
